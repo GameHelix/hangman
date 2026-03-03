@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Background -->
+  <rect width="64" height="64" rx="14" fill="#0d0d1a"/>
+
+  <!-- Gallows -->
+  <!-- Base -->
+  <line x1="8" y1="58" x2="56" y2="58" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+  <!-- Pole -->
+  <line x1="18" y1="58" x2="18" y2="8" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+  <!-- Top bar -->
+  <line x1="18" y1="8" x2="38" y2="8" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+  <!-- Rope -->
+  <line x1="38" y1="8" x2="38" y2="16" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Stick figure (accent red) -->
+  <!-- Head -->
+  <circle cx="38" cy="22" r="6" stroke="#e94560" stroke-width="2.5"/>
+  <!-- Body -->
+  <line x1="38" y1="28" x2="38" y2="44" stroke="#e94560" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Arms -->
+  <line x1="38" y1="33" x2="30" y2="40" stroke="#e94560" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="38" y1="33" x2="46" y2="40" stroke="#e94560" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Legs -->
+  <line x1="38" y1="44" x2="30" y2="54" stroke="#e94560" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="38" y1="44" x2="46" y2="54" stroke="#e94560" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
